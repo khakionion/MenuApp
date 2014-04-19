@@ -467,6 +467,7 @@
 				DF73D0901902050A00E14D56 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DF73D0911902050A00E14D56 /* Build configuration list for PBXNativeTarget "MenuAppTests" */ = {
 			isa = XCConfigurationList;
@@ -475,6 +476,7 @@
 				DF73D0931902050A00E14D56 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

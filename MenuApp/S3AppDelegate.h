@@ -11,5 +11,13 @@
 @interface S3AppDelegate : NSObject <NSApplicationDelegate>
 
 @property (assign) IBOutlet NSWindow *window;
+@property (strong) IBOutlet NSMenu *menu;
+@property (strong) NSStatusItem *menuItem;
+@property (weak) IBOutlet NSMenuItem *dockIconMenuItem;
+
+- (IBAction)toggleDockIcon:(id)sender;
+- (IBAction)quitApp:(id)sender;
+
+- (BOOL)dockIconHidingState;
 
 @end
