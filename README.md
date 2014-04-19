@@ -4,7 +4,7 @@ MenuApp
 A simple Cocoa template application that appears as a status bar menu extra, with a setting to hide its Dock icon. 
 
 
-X11 License
+MIT License
 ===========
 
 Copyright (C) 2014 Michael Herring/Sun, Sea and Sky Factory.
